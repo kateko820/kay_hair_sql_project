@@ -1,40 +1,98 @@
-# Kay Hair SQL Project 💇🏽‍♀️📊
+Kay Hair Analytics Platform 💇🏽‍♀️📊
+Project Overview
 
-This project is a complete SQL database system for **Kay Hair**, a fictional hair care business. It includes:
+Kay Hair Analytics Platform is a database and analytics solution developed for a fictional hair care business. The project demonstrates database design, business reporting, customer segmentation, inventory management, and data analytics using Microsoft SQL Server, T-SQL, Python, and Pandas.
 
-## 📦 Features
-- Product and stock management
-- Customer data and purchase history
-- Sales orders tracking
-- Vendor and purchase orders
-- Employee details and payroll
-- Customer classification:
-  - Frequent buyers
-  - Returning customers
-  - New customers
+Features
+Product and inventory management
+Customer management and purchase history
+Sales order tracking
+Vendor and purchase order management
+Employee and payroll management
+Customer classification:
+Frequent Buyers
+Returning Customers
+New Customers
+Revenue and sales analysis
+Business reporting and data insights
+Technologies Used
+Microsoft SQL Server
+T-SQL
+Python
+Pandas
+GitHub
+Database Structure
+Customers
 
-## 🛠️ Technologies Used
-- Microsoft SQL Server
-- T-SQL
-- Python
-- Pandas
-- GitHub
+Stores customer information and registration details.
 
-## 📁 Structure
-- `PRODUCTS` table for hair products
-- `CUSTOMERS` table with customer info
-- `SALESORDERS` for tracking orders
-- `VENDOR` and `PURCHASE_ORDERS` for inventory restocking
-- `EMPLOYEES` for staffing
-- Stored procedures, subqueries, indexing, and window functions
+Products
 
-## 📈 Goals
-To demonstrate practical SQL skills including:
-- Data modeling
-- Query writing (SELECT, JOIN, GROUP BY, etc.)
-- Advanced SQL (subqueries, stored procedures, updates)
-- Performance optimization (indexes)
+Stores product information, pricing, and stock levels.
 
----
+SalesOrders
+
+Tracks customer purchases and revenue generation.
+
+Vendors
+
+Stores supplier information for inventory replenishment.
+
+PurchaseOrders
+
+Tracks inventory purchases from vendors.
+
+Employees
+
+Stores employee information and payroll data.
+
+SQL Features Demonstrated
+Database Design
+Data Modelling
+Primary Keys and Foreign Keys
+Joins
+Aggregate Functions
+Subqueries
+Stored Procedures
+Indexes
+Window Functions
+Customer Segmentation
+Business Intelligence Reporting
+Analytics Capabilities
+
+The platform provides insights into:
+
+Top Spending Customers
+Best-Selling Products
+Monthly Revenue Trends
+Inventory Replenishment Requirements
+Customer Purchase Behaviour
+Python Analytics
+
+Python scripts are included to extend the SQL database with analytical capabilities such as:
+
+Customer Segmentation
+Sales Analysis
+Reporting Automation
+Data Preparation for Machine Learning
+Project Goals
+
+This project was developed to demonstrate practical skills in:
+
+SQL Development
+Database Administration
+Data Analytics
+Business Intelligence
+Python Programming
+Problem Solving
+Software Development
+Future Enhancements
+Power BI Dashboard
+Azure SQL Integration
+Machine Learning Models
+Customer Demand Forecasting
+Automated Reporting
+
+
 
 > Created by **Kateko** 🧠✨  
