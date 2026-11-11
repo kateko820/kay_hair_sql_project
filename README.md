@@ -1,9 +1,9 @@
-#Kay Hair Analytics Platform 💇🏽‍♀️📊#
-Project Overview
+**Kay Hair Analytics Platform**💇🏽‍♀️📊
+**Project Overview**
 
 Kay Hair Analytics Platform is a database and analytics solution developed for a fictional hair care business. The project demonstrates database design, business reporting, customer segmentation, inventory management, and data analytics using Microsoft SQL Server, T-SQL, Python, and Pandas.
 
-Features
+**Features**
 Product and inventory management
 Customer management and purchase history
 Sales order tracking
@@ -15,38 +15,38 @@ Returning Customers
 New Customers
 Revenue and sales analysis
 Business reporting and data insights
-Technologies Used
+**Technologies Used**
 Microsoft SQL Server
 T-SQL
 Python
 Pandas
 GitHub
-Database Structure
-Customers
+**Database Structure**
+**Customers**
 
 Stores customer information and registration details.
 
-Products
+**Products**
 
 Stores product information, pricing, and stock levels.
 
-SalesOrders
+**SalesOrders**
 
 Tracks customer purchases and revenue generation.
 
-Vendors
+**Vendors**
 
 Stores supplier information for inventory replenishment.
 
-PurchaseOrders
+**PurchaseOrders**
 
 Tracks inventory purchases from vendors.
 
-Employees
+**Employees**
 
 Stores employee information and payroll data.
 
-SQL Features Demonstrated
+**SQL Features Demonstrated**
 Database Design
 Data Modelling
 Primary Keys and Foreign Keys
@@ -58,7 +58,7 @@ Indexes
 Window Functions
 Customer Segmentation
 Business Intelligence Reporting
-Analytics Capabilities
+**Analytics Capabilities**
 
 The platform provides insights into:
 
@@ -67,7 +67,7 @@ Best-Selling Products
 Monthly Revenue Trends
 Inventory Replenishment Requirements
 Customer Purchase Behaviour
-Python Analytics
+**Python Analytics**
 
 Python scripts are included to extend the SQL database with analytical capabilities such as:
 
@@ -75,7 +75,7 @@ Customer Segmentation
 Sales Analysis
 Reporting Automation
 Data Preparation for Machine Learning
-Project Goals
+**Project Goals**
 
 This project was developed to demonstrate practical skills in:
 
@@ -86,7 +86,7 @@ Business Intelligence
 Python Programming
 Problem Solving
 Software Development
-Future Enhancements
+**Future Enhancements**
 Power BI Dashboard
 Azure SQL Integration
 Machine Learning Models
