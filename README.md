@@ -1,4 +1,4 @@
-Kay Hair Analytics Platform 💇🏽‍♀️📊
+#Kay Hair Analytics Platform 💇🏽‍♀️📊#
 Project Overview
 
 Kay Hair Analytics Platform is a database and analytics solution developed for a fictional hair care business. The project demonstrates database design, business reporting, customer segmentation, inventory management, and data analytics using Microsoft SQL Server, T-SQL, Python, and Pandas.
