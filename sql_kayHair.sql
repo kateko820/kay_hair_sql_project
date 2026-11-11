@@ -279,3 +279,7 @@ SELECT
     ) AS PriceRank
 
 FROM Products;
+
+/*=========================
+   The end of the code
+===========================*/
