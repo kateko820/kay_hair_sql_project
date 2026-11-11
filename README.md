@@ -15,7 +15,10 @@ This project is a complete SQL database system for **Kay Hair**, a fictional hai
 
 ## 🛠️ Technologies Used
 - Microsoft SQL Server
-- T-SQL (Transact-SQL)
+- T-SQL
+- Python
+- Pandas
+- GitHub
 
 ## 📁 Structure
 - `PRODUCTS` table for hair products
