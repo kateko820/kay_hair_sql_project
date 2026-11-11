@@ -3,6 +3,8 @@
 
 Kay Hair Analytics Platform is a database and analytics solution developed for a fictional hair care business. The project demonstrates database design, business reporting, customer segmentation, inventory management, and data analytics using Microsoft SQL Server, T-SQL, Python, and Pandas.
 
+
+
 **Features**
 Product and inventory management
 Customer management and purchase history
@@ -15,12 +17,16 @@ Returning Customers
 New Customers
 Revenue and sales analysis
 Business reporting and data insights
+
+
 **Technologies Used**
 Microsoft SQL Server
 T-SQL
 Python
 Pandas
 GitHub
+
+
 **Database Structure**
 **Customers**
 
@@ -46,6 +52,8 @@ Tracks inventory purchases from vendors.
 
 Stores employee information and payroll data.
 
+
+
 **SQL Features Demonstrated**
 Database Design
 Data Modelling
@@ -58,6 +66,8 @@ Indexes
 Window Functions
 Customer Segmentation
 Business Intelligence Reporting
+
+
 **Analytics Capabilities**
 
 The platform provides insights into:
@@ -67,6 +77,8 @@ Best-Selling Products
 Monthly Revenue Trends
 Inventory Replenishment Requirements
 Customer Purchase Behaviour
+
+
 **Python Analytics**
 
 Python scripts are included to extend the SQL database with analytical capabilities such as:
@@ -75,6 +87,8 @@ Customer Segmentation
 Sales Analysis
 Reporting Automation
 Data Preparation for Machine Learning
+
+
 **Project Goals**
 
 This project was developed to demonstrate practical skills in:
@@ -86,6 +100,8 @@ Business Intelligence
 Python Programming
 Problem Solving
 Software Development
+
+
 **Future Enhancements**
 Power BI Dashboard
 Azure SQL Integration
